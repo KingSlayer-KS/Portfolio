@@ -144,8 +144,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: blog,
-    source_code_link: "https://github.com/KingSlayer-KS/Ecommerce",
+    image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.AE7_EhGYP4evUld6xC9IdQHaDl%26pid%3DApi&f=1&ipt=f880394b74d2953de8bd58af2f03bae83b2e451b99860c466dab6af66228cfd5&ipo=images",
+    source_code_link: "https://github.com/KingSlayer-KS/OrderbookSimulation",
   },
   {
     name: "Ecommerce Backend",
