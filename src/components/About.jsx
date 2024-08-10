@@ -1,5 +1,5 @@
 import { React, useState } from "react";
-import {Tilt} from "react-tilt";
+import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
@@ -61,8 +61,9 @@ const About = () => {
         className="mt-4 mb-20 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         <div>
-        Sirjan is a full-stack developer with over four years of experience, currently focusing on Web3 startups as a Blockchain & Backend Developer. He's working on a Web3-based dating platform at DropD Network. Apart from that, he's aiming to develop a SaaS product, specifically a CRM, which will be hopefully launched in Q4 2024.
-
+          Sirjan is a full-stack developer with over three years of experience
+          with stsrtups and freelance clients, currently persuing associates
+          computer sciece degree in St Clair College in Toronto.
           <br />
           <br />
           He also takes on freelance projects, including portfolio sites,
@@ -72,10 +73,14 @@ const About = () => {
           small businesses looking to explore digital solutions.
           <div className="mt-5 text-left">
             {" "}
-            <Link target="blank" to="https://calendly.com/codingsimplify/free-estimations-and-brain-storming-call">
-            <button  className="bg-tertiary green-pink-gradient w-4/5 py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary">
-              Book a FREE Call
-            </button></Link>
+            <Link
+              target="blank"
+              to="https://calendly.com/codingsimplify/free-estimations-and-brain-storming-call"
+            >
+              <button className="bg-tertiary green-pink-gradient w-4/5 py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary">
+                Book a FREE Call
+              </button>
+            </Link>
           </div>
         </div>
       </motion.p>
@@ -99,21 +104,6 @@ const About = () => {
           );
         })}
       </div>
-
-
-
-      {/*Service costings */}
-      {/* <motion.div className="mt-20" variants={textVariant()}>
-        <p className={styles.sectionSubText}>services</p>
-        <h2 className={styles.sectionHeadText}>Making Visons a Reality</h2>
-      </motion.div>
-
-      <div class="grid grid-cols-3 gap-4">
-        <div class="col-span-2 h-3/6">04</div>
-        <div class="h-3/6">05</div>
-        <div class="h-3/6">06</div>
-        <div class="col-span-2 h-3/6">07</div>
-      </div> */}
     </>
   );
 };

@@ -79,7 +79,7 @@ const experiences = [
     icon2: IconBrandNodejs,
     icon3: IconCurrencyEthereum,
     iconBg: "lightgrey",
-    date: "Present",
+    date: "Janurary 2024",
     points: [
       "Develop and maintain Solidity contracts for blockchain applications.",
       "Implement and maintain express routes for handling API requests",
@@ -89,7 +89,7 @@ const experiences = [
   },
   {
     title: "Backend Developer",
-    company_name: "Azal Events",
+    company_name: "FileSharein.com",
     icon: IconBrandReact,
     icon2: IconBrandAws,
     icon3: IconSql,
@@ -109,22 +109,7 @@ const experiences = [
     icon2: IconBrandAws,
     icon3: IconBrandPhp,
     iconBg: "lightgrey",
-    date: "May 2023",
-    points: [
-      "Develop and maintain Solidity contracts for blockchain applications.",
-      "Implement and maintain express routes for handling API requests",
-      "Collaborate with cross-functional teams, including designers, product managers, and developers, to integrate the contracts into the overall product architecture.",
-      "Participate in code reviews and provide constructive feedback to other developers",
-    ],
-  },
-  {
-    title: "Full Stack Developer",
-    company_name: "FileSharein.com",
-    icon2: IconBrandAws,
-    icon: IconBrandNodejs,
-    icon3: IconBrandNextjs,
-    iconBg: "lightgrey",
-    date: "May 2023",
+    date: "July 2023",
     points: [
       "Develop and maintain Solidity contracts for blockchain applications.",
       "Implement and maintain express routes for handling API requests",

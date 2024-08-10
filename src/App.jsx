@@ -24,6 +24,7 @@ const App = () => {
       </div>
     </BrowserRouter>
     </MantineProvider>
+    // page for evye casestudy
   );
 }
 
