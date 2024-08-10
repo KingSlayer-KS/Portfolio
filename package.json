@@ -24,6 +24,7 @@
     "framer-motion": "^11.3.2",
     "heroicons": "^2.1.5",
     "maath": "^0.10.8",
+    "pfolio_react_2.0": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.24.1",

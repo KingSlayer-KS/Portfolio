@@ -132,6 +132,22 @@ const testimonials = [
 
 const projects = [
   {
+    name: "OrderBook Simulation",
+    description: "",
+    tags: [
+      {
+        name: "Node.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "TypeScript",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: blog,
+    source_code_link: "https://github.com/KingSlayer-KS/Ecommerce",
+  },
+  {
     name: "Ecommerce Backend",
     description: "",
     tags: [
