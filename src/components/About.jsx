@@ -63,7 +63,7 @@ const About = () => {
         <div>
           Sirjan is a full-stack developer with over three years of experience
           with stsrtups and freelance clients, currently persuing associates
-          computer sciece degree in St Clair College in Toronto.
+          computer science degree in St Clair College in Toronto.
           <br />
           <br />
           He also takes on freelance projects, including portfolio sites,
