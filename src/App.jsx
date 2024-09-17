@@ -2,6 +2,7 @@ import { BrowserRouter } from "react-router-dom";
 import { MantineProvider } from '@mantine/core';
 import { About, Contact, Experience, Hero, Navbar, Works, StarsCanvas } from "./components";
 import FreelanceExperience from "./components/FreelanceExperience";
+import { useEffect } from "react";
 
 const App = () => {
 
